@@ -1,0 +1,3 @@
+first we created a folder as auth-services inside a main folder named services.
+this project uses python,flask and docker to build a simple authentication service.
+this structure can be extended with more micro services......
